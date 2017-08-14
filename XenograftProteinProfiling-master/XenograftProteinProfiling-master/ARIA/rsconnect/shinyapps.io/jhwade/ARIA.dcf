@@ -1,0 +1,11 @@
+name: ARIA
+title: ARIA
+account: jhwade
+server: shinyapps.io
+appId: 171152
+bundleId: 850746
+url: https://jhwade.shinyapps.io/ARIA/
+when: 1496418374.02015
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: groupNames_allClusters.csv|groupNames_XPP.csv|Test.png|Test_two.ch_raw.csv|Test_u.ch_raw.csv|Test_u.ch_raw.png

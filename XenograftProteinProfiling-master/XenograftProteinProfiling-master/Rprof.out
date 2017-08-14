@@ -1,0 +1,7 @@
+sample.interval=20000
+".Call" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "<Anonymous>" 
+"match" "%in%" "structure" ".POSIXct" "Sys.time" "srcfilecopy" "parse" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "<Anonymous>" 
+"file.info" "match" "%in%" ".rs.getCompletionsFile" "<Anonymous>" 
+"readRDS" "index.search" "utils::help" ".rs.getHelp" "<Anonymous>" 
+".rs.scalar" "<Anonymous>" 
+"ls" "FUN" "lapply" ".rs.objectsOnSearchPath" ".rs.getCompletionsSearchPath" "Reduce" "<Anonymous>" 
